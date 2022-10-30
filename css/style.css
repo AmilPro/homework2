@@ -1,0 +1,173 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+ 
+}
+.main{
+    float: left ;
+    width: 840px;
+    height: 640px;
+    background-color: lightgreen;
+}
+.header{
+    background-color: green;
+    float: left;
+    width: 800px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.head{
+    margin-top: 8px;
+    float: left;
+    color: white;
+    margin-left: 50%;
+}
+.headcenter{
+float: left;
+width: 800px;
+height: 450px;
+margin-left: 10px;
+margin-top: 20px;
+
+}
+
+
+ .aside{
+float: left;
+width: 200px;
+height: 450px;
+background-color: chartreuse;
+}
+.yaziasid{
+    float: left;
+    color: white;
+    margin-top: 200px;
+    margin-left: 80px;
+    
+    
+}
+
+
+
+.rightcenter{
+float: left;
+width:550px;
+height:450px ;
+background-color: peru;
+margin-left: 50px;
+}
+
+.centrart{
+float: left;
+width: 550px;
+height: 300px;
+}
+.art{
+ float: left; 
+ margin-top: 270px;  
+ margin-left: 40%;
+ color: white;
+}
+
+
+.yellows{
+float: left;
+width: 550px;
+height: 150px;
+}
+
+.imgleft{
+    float: left;
+    width:155px ;
+    height: 120px;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.image{
+    float: left;
+    margin-top: 40px;
+    margin-left:30px;
+    color: white;
+}
+
+.imagecenter{
+    float: left;
+    width:155px ;
+    height: 120px;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.imagec{
+    float: left;
+    margin-top: 40px;
+    margin-left:30px;
+    color: white;
+}
+
+.imageright{
+    float: left;
+    width:155px ;
+    height: 120px;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.imager{
+    float: left;
+    margin-top: 40px;
+    margin-left:30px;
+    color: white;
+}
+/* .centertop{
+float: left;
+background-color: darkblue;
+width:550px;
+height:150px ;
+} */
+
+
+/* .wright{
+    float: left;
+    margin-top: 200px;
+} */
+/* .bottom{
+    float: left;
+    width: 530px;
+    height: 150px;
+    margin-top: 290px;
+    margin-left: 20px; 
+
+} */
+
+/* .imgcenter{
+    float: left;
+    width:160px ;
+    height: 150px;
+    background-color: yellow;
+    margin-left: 20px; 
+} */
+/* .imgright{
+    float: left;
+    width:160px ;
+    height: 150px;
+    background-color: yellow;
+    margin-left: 20px; 
+} */
+.bottom{
+    background-color: green;
+    float: left;
+    width: 800px;
+    height: 50px;
+     margin-top: 20px;
+     margin-left: 10px;
+}
+.footer{
+    float: left;
+    color: white;
+    margin-top: 10px;
+    margin-left: 45%;
+}
